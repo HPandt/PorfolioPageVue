@@ -52,7 +52,7 @@ onUnmounted(() => {
           @click="scrollToSection('#')"
           class="text-2xl font-bold text-yellow-400 hover:text-yellow-500 transition-colors"
         >
-          M . S
+          H . P
         </button>
 
         <!-- Desktop Navigation -->
